@@ -1,3 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022
+img: cv.png
+alt: image-alt
+project-date: 2022
+description:
 # Malcolm Grossman
 
 ## malcolmcgrossman@gmail.com 
@@ -106,4 +114,4 @@ Processing, Database Systems Major GPA: 3.
 ```
 Established education and style guidelines for GitHub and coding practices
 ```
-
+---
