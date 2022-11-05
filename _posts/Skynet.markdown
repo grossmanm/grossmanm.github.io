@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019
-img: cv.png
+img: skynet.jpg
 alt: image-alt
 project-date: Spring 2019
 client: Group Project
